@@ -60,6 +60,13 @@ const VIDEOS = [
     desc: "Highlights from the July 3, 2026 MHC Marlins game."
   },
   {
+    id: "fXXy5LLoGc0",
+    category: "highlights",
+    tag: "RYD Highlights",
+    title: "3/20/26 Roanoke RYD Highlights",
+    desc: "Highlights from the March 20, 2026 Roanoke Rail Yard Dawgs game."
+  },
+  {
     id: "ssFvslmL74w",
     category: "interviews",
     tag: "Feature Interview",
