@@ -48,13 +48,13 @@ const VIDEOS = [
   {
     id: "zTkGHf8Vun4",
     category: "highlights",
-    tag: "Highlight Reel — Baseball",
+    tag: "baseball highlights",
     title: "6/26/26 MHC Marlins Highlights",
     desc: "Highlights from the June 26, 2026 MHC Marlins game."
   },
   {
     id: "QtQvL3OFeZE",
-    category: "highlights",
+    category: "baseball highlights",
     tag: "MHC Marlins Highlights",
     title: "7/3/26 MHC Marlins Highlights",
     desc: "Highlights from the July 3, 2026 MHC Marlins game."
@@ -62,7 +62,7 @@ const VIDEOS = [
   {
     id: "fXXy5LLoGc0",
     category: "highlights",
-    tag: "RYD Highlights",
+    tag: "hockey highlights",
     title: "3/20/26 Roanoke RYD Highlights",
     desc: "Highlights from the March 20, 2026 Roanoke Rail Yard Dawgs game."
   },
@@ -76,13 +76,13 @@ const VIDEOS = [
   {
     id: "-IIT8ANAwW4",
     category: "highlights",
-    tag: "MHC Marlins Highlights",
+    tag: "baseball highlights",
     title: "7/5/26 MHC Marlins Highlights",
     desc: "Highlights from the July 5, 2026 MHC Marlins game."
   },
   {
     id: "dNCXAQED-hM",
-    category: "highlights",
+    category: "baseball highlights",
     tag: "MHC Marlins Highlights",
     title: "7/26/26 MHC Marlins Highlights",
     desc: "Highlights from the July 26, 2026 MHC Marlins game."
@@ -96,21 +96,21 @@ const VIDEOS = [
   },
   {
     id: "SNijJmRRVE4",
-    category: "highlights",
+    category: "baseball highlights",
     tag: "MHC Marlins Highlights",
     title: "7/20/26 MHC Marlins Highlights",
     desc: "Highlights from the July 20, 2026 MHC Marlins game."
   },
   {
     id: "AHRENrVqfiM",
-    category: "highlights",
+    category: "baseball highlights",
     tag: "MHC Marlins Highlights",
     title: "7/16/26 MHC Marlins Highlights",
     desc: "Highlights from the July 16, 2026 MHC Marlins game."
   },
   {
     id: "dtUeszQp7MM",
-    category: "highlights",
+    category: "baseball highlights",
     tag: "MHC Marlins Highlights",
     title: "7/24/26 MHC Marlins Highlights",
     desc: "Highlights from the July 24, 2026 MHC Marlins game."
