@@ -138,3 +138,22 @@ always undo by replacing the file.
 Everything else (hero section, About, Contact) still lives directly in
 `index.html`. Ask for help if you'd like that made easier to edit too.
 
+## Search and social preview details
+
+The page title, search description, social sharing text, and structured
+broadcaster profile are in the `<head>` of `index.html`. Keep these aligned
+with the About section when your location, specialties, or experience change.
+
+## Accessibility and search visibility
+
+The site includes a skip-to-content link, keyboard focus indicators, reduced
+motion support, mobile navigation, labeled sections, and accessible states for
+the work filters. Video filters show the first four samples by default on
+desktop (three on mobile), with an option to reveal the rest. Keep these
+details in place when changing the page structure.
+
+For new work samples, use clear titles and descriptions, and write image alt
+text that describes useful visual information rather than repeating the title.
+Provide accurate captions for spoken video and a transcript when practical.
+When the site has a confirmed public domain, add it to the page metadata and
+set up Google Search Console to monitor indexing and search queries.
